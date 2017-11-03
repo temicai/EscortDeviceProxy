@@ -1,0 +1,10 @@
+LIBRARY
+EXPORTS
+	EDS_Init @1
+	EDS_Release @2
+	EDS_Start @3
+	EDS_SetMessageCallback @4
+	EDS_SendCommand @5
+	EDS_AddDeviceListener @6
+	EDS_RemoveDeviceListener @7
+	EDS_Stop @8

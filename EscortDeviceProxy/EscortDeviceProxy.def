@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+	EDP_Init @1
+	EDP_Start @2
+	EDP_Stop @3
+	EDP_Release @4
+	EDP_GetLastError @5
+	EDP_SetLbsQueryParameter @6

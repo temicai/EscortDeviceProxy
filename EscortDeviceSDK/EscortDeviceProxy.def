@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+	EDS_Init @1
+	EDS_Start @2
+	EDS_SendCommand @3
+	EDS_SetMessageCallback @4
+	EDS_Stop @5
+	EDS_Release @6
